@@ -1,6 +1,7 @@
 .name{
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
+  text-align: start;
 }
 .container {
     text-align: center;
